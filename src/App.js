@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>My title</h1>
+      <img src="https://via.placeholder.com/150" />
     </div>
   );
 }
